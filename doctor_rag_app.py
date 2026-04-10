@@ -1119,7 +1119,7 @@ with gr.Blocks(
 
 print("🚀 Launching Gradio Interface...")
 demo.launch(
-    share=true,
+    share=True,
     debug=True,
     show_error=True,
     server_name="127.0.0.1",
