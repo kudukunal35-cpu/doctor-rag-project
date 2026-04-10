@@ -1,0 +1,12 @@
+Patient ID: P001
+Name: Anjali Patil
+Age: 58
+Gender: Female
+Appointment Date: 2026-04-11
+Medical History: Diabetes, Hypertension
+Current Medicines: Metformin, Amlodipine
+Missed Doses Last 7 Days: 4
+Medication Adherence: 62
+Recent Symptoms: Fatigue, headache, occasional dizziness
+Previous Doctor Note: Patient has inconsistent medicine routine and irregular sugar control.
+Lab Summary: Fasting sugar elevated. BP slightly above normal.
