@@ -1,12 +1,12 @@
 Patient ID: P003
-Name: Meera Joshi
+Name: Demo Patient 003
 Age: 67
-Gender: Female
-Appointment Date: 2026-04-12
+Gender: Male
+Appointment Date: 2026-08-24
 Medical History: Hypertension, Heart Disease
 Current Medicines: Losartan, Aspirin
-Missed Doses Last 7 Days: 2
-Medication Adherence: 74
-Recent Symptoms: Dizziness, chest discomfort
-Previous Doctor Note: Needs close monitoring for cardiovascular risk.
+Missed Doses Last 7 Days: 4
+Medication Adherence: 68
+Recent Symptoms: Chest discomfort, shortness of breath, dizziness
+Previous Doctor Note: Patient requires close cardiovascular monitoring due to persistent symptoms.
 Lab Summary: BP fluctuating. Cardiac risk factors present.
